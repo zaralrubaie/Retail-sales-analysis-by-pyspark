@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates an **end‑to‑end Spark ML pipeline** using the **Online Retail dataset**. It covers **data sampling, feature engineering, Spark SQL, ML modeling, and evaluation**, designed as a **portfolio‑ready, recruiter‑friendly project**.
+This project demonstrates an **end‑to‑end Spark ML pipeline** using the **Online Retail dataset**. It covers **data sampling, feature engineering, Spark SQL, ML modeling, and evaluation**.
 
 The goal is to **predict product Quantity sold** using transactional, temporal, and pricing features — all processed at scale using **PySpark**.
 
